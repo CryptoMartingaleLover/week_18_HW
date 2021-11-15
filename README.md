@@ -48,7 +48,7 @@ Following are the steps taken to generate StromboliChain, our PoA blockchain, an
 
 * In the puppeth configuration, you can see that two files were successfully output. However, only one is necessary, and that is strombolichain.json. You can remove the other one - strombolichain-harmony.json. 
 
-![2.4_removal_of_strombolichain-harmony](Screenshots/=2.4_removal_of_strombolichain-harmony.png)
+![2.4_removal_of_strombolichain-harmony](Screenshots/2.4_removal_of_strombolichain-harmony.png)
 
 * Your genesis block has been set up, your account addresses are connected, and now the next steps are to initialize the accounts and start minting.
 
