@@ -119,11 +119,11 @@ Following are the steps taken to generate StromboliChain, our PoA blockchain, an
 
 * The transaction will send, and a green message bar will appear across the bottom of MyCrypto, inviting you to check the status of the transaction. Click the "Check TX" button. This will prompt you to log out. Go ahead and log out. 
 
-![6.4_transaction_confirmed](Screenshots/6.4_transaction_confirmed.png)
+![6.5_transaction_sent_check_status](Screenshots/6.5_transaction_sent_check_status.png)
 
 * Finally, you will receive confirmation that your ETH transaction on StromboliChain was indeed successful!
 
-![6.5_transaction_sent_check_status](Screenshots/6.5_transaction_sent_check_status.png)
+![6.4_transaction_confirmed](Screenshots/6.4_transaction_confirmed.png)
 
 
 
